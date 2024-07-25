@@ -10,7 +10,7 @@ This project is a web application for predicting Melbourne, Australia house pric
 - Uses custom transformers for encoding categorical variables
 
 ## Project Structure
-
+.
 ├── app.py # Main application file
 ├── Cleaned_df.pkl # Cleaned dataset used for user input options
 ├── best_xgb_model.joblib # Pre-trained XGBoost model
