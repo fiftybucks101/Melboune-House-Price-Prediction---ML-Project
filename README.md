@@ -11,14 +11,14 @@ This project is a web application for predicting Melbourne, Australia house pric
 
 ## Project Structure
 .
-├── app.py # Main application file
-├── Cleaned_df.pkl # Cleaned dataset used for user input options
-├── best_xgb_model.joblib # Pre-trained XGBoost model
-├── custom_transformers.py # Custom transformers for encoding
-├── static
-│ └── image9.jpg # Image displayed in the application
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+- app.py # Main application file
+- Cleaned_df.pkl # Cleaned dataset used for user input options
+- best_xgb_model.joblib # Pre-trained XGBoost model
+- custom_transformers.py # Custom transformers for encoding
+- static
+  - image9.jpg # Image displayed in the application
+- README.md # Project documentation
+- requirements.txt # Python dependencies
 
 
 ## Getting Started
