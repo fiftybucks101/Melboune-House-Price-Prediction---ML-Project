@@ -15,8 +15,7 @@ This project is a web application for predicting Melbourne, Australia house pric
 2. Cleaned_df.pkl # Cleaned dataset used for user input options
 3. best_xgb_model.joblib # Pre-trained XGBoost model
 4. custom_transformers.py # Custom transformers for encoding
-5. static
-  - image9.jpg # Image displayed in the application
+5. static - image9.jpg # Image displayed in the application
 6. README.md # Project documentation
 7. requirements.txt # Python dependencies
 
