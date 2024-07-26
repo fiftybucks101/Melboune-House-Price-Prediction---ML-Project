@@ -1,5 +1,3 @@
-
-
 import pandas as pd
 import joblib
 import streamlit as st
@@ -64,7 +62,7 @@ def user_input_features():
     return pd.DataFrame(data)
 
 # Streamlit app title
-st.markdown('<h1 style="font-family:Georgia, serif; font-size:48px; color:#333;">Melbourne House Price Prediction</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="font-family:Georgia, serif; font-size:48px; color:#333;">House Price Prediction</h1>', unsafe_allow_html=True)
 st.subheader("Welcome! Here you can predict the price of a house based on its features.")
 
 # Custom CSS for styling
